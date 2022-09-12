@@ -1,0 +1,131 @@
+@media screen and (max-width: 550px) {
+  body {
+    overflow: visible;
+    font-size: 17px;
+    overflow-x: hidden;
+  }
+  .bar {
+    display: block;
+    font-size: 25px;
+    color: #000000;
+  }
+  .nav-items {
+    display: none;
+  }
+  .nav-bar {
+    padding: 20px;
+  }
+  .nav-bar img {
+    height: 35px;
+    padding-right: 0px;
+  }
+  .hline {
+    display: none;
+  }
+  .main-section {
+    flex-direction: column;
+  }
+  .first-section {
+    width: unset;
+    padding: 0px 20px;
+  }
+  .first-section img {
+    height: 40vh;
+    width: 60vw;
+    z-index: unset;
+    position: unset;
+  }
+  .first-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .top {
+    padding: 30px 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  .crea-icons {
+    flex-direction: column;
+  }
+  .creativity-content div:first-child {
+    font-size: 50px;
+    line-height: 30px;
+  }
+  .creativity-content div:nth-child(2) h2 {
+    font-size: 50px;
+    line-height: 80px;
+    padding-left: 100px;
+  }
+  .creativity-content div:nth-child(2) p {
+    font-size: 15px;
+    line-height: 20px;
+    padding-top: 23px;
+    padding-left: 5px;
+  }
+  .icons {
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: unset;
+    padding: 8px 0px;
+    align-items: center;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
+    justify-content: space-evenly;
+  }
+  .icons li i {
+    font-size: 25px;
+  }
+  .btn {
+    align-self: center;
+  }
+  .btn button {
+    margin-top: 0px;
+    padding: 10px 20px;
+    font-size: 17px;
+  }
+  .bottom {
+    flex-direction: column;
+    padding: 0px 50px;
+    padding-bottom: 20px;
+    align-items: center;
+  }
+  .list {
+    padding-left: 0px;
+  }
+  .list li {
+    padding-bottom: 17px;
+  }
+  .list li:before {
+    top: 13px;
+  }
+  .list::before {
+    left: -15.5px;
+    top: 15px;
+    height: 188px;
+  }
+  .content div img {
+    width: 300px;
+    height: 300px;
+  }
+  .content p:nth-child(2) {
+    text-align: center;
+  }
+  .content p:first-child {
+    display: none;
+  }
+  .content {
+    padding-left: unset;
+  }
+  .vline {
+    display: none;
+  }
+  .dance-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .content p:nth-child(2) {
+    width: 300px;
+  }
+}
