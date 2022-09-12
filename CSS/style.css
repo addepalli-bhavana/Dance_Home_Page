@@ -64,7 +64,6 @@ body {
 }
 .top {
   padding: 0px 50px;
-
   display: flex;
   flex-direction: column;
 }
@@ -90,7 +89,7 @@ body {
 }
 .creativity-content div:nth-child(2) p {
   font-size: 35px;
-font-family: Merriweather;
+  font-family: Merriweather;
   padding-top: 50px;
   padding-left: 10px;
   line-height: 50px;
