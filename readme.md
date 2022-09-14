@@ -22,7 +22,7 @@
 - I have taken 3 hours to complete this project.
 
 ### **👀SCREEN CAPTURE IN LAPTOP SCREEN:**
-![Dance Landing Page Screen Capture In Laptop Screen](ScreenCapture-In-Laptop-Screen.jpeg)
+![Dance Landing Page Screen Capture In Laptop Screen](ScreenCapture-In-Laptop-Screen.png)
 
 ### **👀SCREEN CAPTURE IN MOBILE SCREEN:**
 ![Dance Landing Page Screen Capture In Mobile Screen](ScreenCapture-In-Mobile-Screen.png)
@@ -31,5 +31,5 @@
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
--  [Project Live Link !](https://631edf227bc2085babcd740d--precious-starlight-b7b2ab.netlify.app/)
+-  [Project Live Link !](https://63219631a5f82b4a4d6f8a10--exquisite-maamoul-dd282e.netlify.app/)
 
